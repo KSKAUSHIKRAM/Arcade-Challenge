@@ -30,7 +30,7 @@ Are you ready to test your skills, unlock achievements, and see your code in act
 
 **Note**
 - You may use AI tools for guidance or debugging.
-- Direct copy-paste of solutions without understanding is discouraged.
+- Direct copy-paste of solutions without understanding is discouraged (We are good at finding AI contributions 🐧).
 - All PRs must include a short explanation of the logic.
 
 **Let the quest begin!** ✨
