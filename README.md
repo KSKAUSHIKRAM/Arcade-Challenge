@@ -1,5 +1,22 @@
-
 Welcome to **CodeQuest (Feb Challenge) – CLI Arcade** – a place where **code becomes play**, and every line you write builds toward something bigger.  
+
+   _=====_                               _=====_
+     / _____ \                             / _____ \
+   +.-'_____'-.---------------------------.-'_____'-.+
+  /   |     |  '.        S O N Y        .'  |  _  |   \
+ / ___| /|\ |___ \                     / ___| /_\ |___ \
+/ |      |      | ;  __           _   ; | _         _ | ;
+| | <---   ---> | | |__|         |_:> | ||_|       (_)| |
+| |___   |   ___| ;SELECT       START ; |___       ___| ;
+|\    | \|/ |    /  _     ___      _   \    | (X) |    /|
+| \   |_____|  .','" "', |___|  ,'" "', '.  |_____|  .' |
+|  '-.______.-' /       \ANALOG/       \  '-._____.-'   |
+|               |       |------|       |                |
+|              /\       /      \       /\               |
+|             /  '.___.'        '.___.'  \              |
+|            /                            \             |
+ \          /                              \           /
+  \________/                                \_________
 
 Here, you’ll contribute, experiment, and see your creations come alive… **all in the terminal**.  
 
