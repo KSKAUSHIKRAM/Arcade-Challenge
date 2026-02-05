@@ -32,6 +32,6 @@ jobs:
           for dir in python/*; do
             if [ -d "$dir/tests" ]; then
               echo "Running tests in $dir"
-              PYTHONPATH="$dir" python -m unittest discover -s "$dir/tests"
+              python -m unittest discover -s "$dir/tests" -t "$dir"
             fi
           done
